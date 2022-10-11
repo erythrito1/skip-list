@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Project/Skiplist-CPP-master/build",
+  "command": "C:\\Env\\mingw64\\bin\\g++.exe   -std=c++14 -pthread -g -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\Project\\Skiplist-CPP-master\\main.cpp",
+  "file": "C:/Project/Skiplist-CPP-master/main.cpp"
+}
+]

@@ -1,0 +1,4 @@
+cmake_minimum_required(VERSION 3.2)
+
+SET(CMAKE_CXX_FLAGS "-std=c++0x -pthread")
+add_executable(stress_test stress_test.cpp)
